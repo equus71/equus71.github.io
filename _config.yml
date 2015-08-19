@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://equus71.github.io
+title: Grzegorz Biziel
+tagline: Test tinypress
+description: How to make things awesome 
+paginate: 5
